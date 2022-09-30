@@ -2,8 +2,5 @@
 using namespace std;
 
 int main(){
-    int a, b, c;
-
-    cout<<"NamasteWorld!!"<<endl;
-
+    cout<<"NamasteWorld!!"<<endl; //this will generate the main output..
 }
